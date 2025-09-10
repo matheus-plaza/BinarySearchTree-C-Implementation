@@ -42,7 +42,7 @@ Utilize um compilador C (como o GCC) para compilar os arquivos do projeto:
 
 Bash
 
-# O comando compila os dois arquivos .c e gera um executável chamado "bst_program"
+ O comando compila os dois arquivos .c e gera um executável chamado "bst_program"
 gcc main.c Arvore.c -o bst_program
 Para executar o programa:
 
